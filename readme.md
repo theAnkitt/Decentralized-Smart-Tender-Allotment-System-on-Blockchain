@@ -1,4 +1,4 @@
-![alt text](../logo.jpg)
+![!\[alt text\](../logo.jpg)](logo.jpg)
 
 The Decentralized Tender Management System aims to revolutionize the traditional tendering process by leveraging blockchain technology. Our system ensures transparency, security, and efficiency by allowing tender issuers and bidders to interact seamlessly on a decentralized platform. By eliminating intermediaries and automating processes through smart contracts, we strive to create a fair and trustworthy environment for all participants involved in procurement and bidding activities.
 
@@ -30,7 +30,7 @@ The flowchart illustrates the step-by-step process from tender creation to winne
 Smart Contract Address
 Network: EDU chain
 Contract Address: 0xb297E93F62240DC364d655A8e17758753305E401
-![alt text](../edu-chain.png)
+![!\[alt text\](../edu-chain.png)](edu-chain.png)
 
 Note: Replace the above address with the actual deployed contract address upon deployment.
 
